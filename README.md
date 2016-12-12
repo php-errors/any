@@ -9,4 +9,4 @@ default:
 
 [exception-based]: https://github.com/php-errors/exceptions
 [native]: https://github.com/php-errors/native
-[specification]: https://github.com/php-errors/exceptions/blob/master/doc/specification.md
+[specification]: https://github.com/php-errors/specification/blob/master/exception-based-error-handler.md
